@@ -1,0 +1,4 @@
+repository "FPSGameJam2023@Embelm@cloud"
+  path "/"
+    br "/main"
+    co "/main"
